@@ -1,1 +1,2 @@
-# webpack-starter
+# Webpack-starter
+Basic webpack and babel usage
