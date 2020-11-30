@@ -7,8 +7,5 @@ Setelah me-clone repository ini, kemudian jalankan perintah
 
 ```
 npm install
-```
-
-```
 npx webpack
 ```
