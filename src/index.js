@@ -6,6 +6,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>Belajar Menggunakan Webpack</h1>
+        <h1>My Commit</h1>
       </div>
     );
   }
